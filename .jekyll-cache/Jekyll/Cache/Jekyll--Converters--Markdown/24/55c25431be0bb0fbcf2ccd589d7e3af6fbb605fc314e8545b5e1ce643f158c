@@ -1,0 +1,34 @@
+I"k<h1 id="baudioset-information">b!audioset information</h1>
+<p>Syntax: <code class="highlighter-rouge">b!audioset</code></p>
+
+<p>Music configuration options.</p>
+
+<h1 id="subcommands">Subcommands:</h1>
+<p><code class="highlighter-rouge">autoplay</code> Change auto-play setting.</p>
+
+<p><code class="highlighter-rouge">countrycode</code> Set the country code for Spotify searches.</p>
+
+<p><code class="highlighter-rouge">dc</code> Toggle the bot auto-disconnecting when done playing.</p>
+
+<p><code class="highlighter-rouge">emptydisconnect</code> Auto-disconnect from channel when bot is alone.</p>
+
+<p><code class="highlighter-rouge">emptypause</code> Auto-pause after x seconds when room is empty, 0 to disable</p>
+
+<p><code class="highlighter-rouge">jukebox</code> Set a price for queueing tracks for non-mods, 0 to disable</p>
+
+<p><code class="highlighter-rouge">lyrics</code> Prioritise tracks with lyrics.</p>
+
+<p><code class="highlighter-rouge">maxlength</code> Max length of a track to queue in seconds, 0 to disable</p>
+
+<p><code class="highlighter-rouge">mycountrycode</code> Set the country code for Spotify searches.</p>
+
+<p><code class="highlighter-rouge">notify</code> Toggle track announcement and other bot messages.</p>
+
+<p><code class="highlighter-rouge">restrictions</code> Manages the keyword whitelist and blacklist.</p>
+
+<p><code class="highlighter-rouge">settings</code> Show the current settings.</p>
+
+<p><code class="highlighter-rouge">thumbnail</code> Toggle displaying a thumbnail on audio messages.</p>
+
+<p><code class="highlighter-rouge">vote</code> Percentage needed for non-mods to skip tracks, 0 to disable.</p>
+:ET

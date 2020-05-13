@@ -2,6 +2,7 @@
 title: Audio Commands
 has_children: true
 nav_order: 2
+layout: default
 ---
 
 # Audio Commands
