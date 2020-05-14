@@ -1,0 +1,18 @@
+I"µ<h1 id="beq-information">b!eq information</h1>
+<p>Syntax: <code class="highlighter-rouge">b!eq</code></p>
+
+<p>Equalizer management.</p>
+
+<h1 id="subcommands">Subcommands:</h1>
+<p><code class="highlighter-rouge">delete</code> Delete a saved eq preset.</p>
+
+<p><code class="highlighter-rouge">list</code> List saved eq presets.</p>
+
+<p><code class="highlighter-rouge">load</code> Load a saved eq preset.</p>
+
+<p><code class="highlighter-rouge">reset</code> Reset the eq to 0 across all bands.</p>
+
+<p><code class="highlighter-rouge">save</code> Save the current eq settings to a preset.</p>
+
+<p><code class="highlighter-rouge">set</code> Set an eq band with a band number or name and value.</p>
+:ET

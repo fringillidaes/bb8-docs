@@ -12,5 +12,41 @@
     "url": "http://localhost:4000/Audio%20Commands/audioset.html",
     "relUrl": "/Audio%20Commands/audioset.html"
   }
+  ,"2": {
+    "title": "b!audiostats",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/audiostats.html",
+    "relUrl": "/Audio%20Commands/audiostats.html"
+  }
+  ,"3": {
+    "title": "b!autoplay",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/autoplay.html",
+    "relUrl": "/Audio%20Commands/autoplay.html"
+  }
+  ,"4": {
+    "title": "b!bump",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/bump.html",
+    "relUrl": "/Audio%20Commands/bump.html"
+  }
+  ,"5": {
+    "title": "b!disconnect",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/disconnect.html",
+    "relUrl": "/Audio%20Commands/disconnect.html"
+  }
+  ,"6": {
+    "title": "b!eq",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/eq.html",
+    "relUrl": "/Audio%20Commands/eq.html"
+  }
+  ,"7": {
+    "title": "b!genre",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/genre.html",
+    "relUrl": "/Audio%20Commands/genre.html"
+  }
   
 }
