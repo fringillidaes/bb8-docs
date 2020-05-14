@@ -1,0 +1,9 @@
+I"/<h1 id="bsearch-information">b!search information</h1>
+<p>Syntax: <code class="highlighter-rouge">b!search</code></p>
+
+<p>Pick a track with a search.</p>
+
+<p>Use <code class="highlighter-rouge">b!search</code> <code class="highlighter-rouge">list</code> <code class="highlighter-rouge">&lt;search term&gt;</code> to queue all tracks found on YouTube.</p>
+
+<p>Use <code class="highlighter-rouge">b!search</code> <code class="highlighter-rouge">sc</code> <code class="highlighter-rouge">&lt;search term&gt;</code> will search SoundCloud instead of YouTube.</p>
+:ET

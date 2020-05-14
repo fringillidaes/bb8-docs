@@ -2,16 +2,16 @@
 title: b!genre
 parent: Audio Commands
 has_children: false
-nav_order: 6
+nav_order: 7
 layout: default
 ---
 
 # b!genre information
 Syntax: `b!genre`
 
-Automatically queue a playlist based on genres and their catagories.
+Automatically queue a playlist based on genres and their categories.
 
-# Subcommands:
+# Pages:
 - Top Lists
   - Page one
     1. Today's Top Hits - 50 tracks

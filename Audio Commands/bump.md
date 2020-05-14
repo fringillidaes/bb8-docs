@@ -7,6 +7,6 @@ layout: default
 ---
 
 # b!bump information
-Syntax: `b!bump` <index>
+Syntax: `b!bump` `<index>`
 
 Bump a track number to the top of the queue.

@@ -1,0 +1,7 @@
+I"™<h1 id="bseek-information">b!seek information</h1>
+<p>Syntax: <code class="highlighter-rouge">b!seek</code> <code class="highlighter-rouge">&lt;seconds&gt;</code></p>
+
+<p>Seek ahead or behind on a track by seconds or a to a specific time.</p>
+
+<p>Accepts seconds or a value formatted like 00:00:00 (<code class="highlighter-rouge">hh:mm:ss</code>) or 00:00 (<code class="highlighter-rouge">mm:ss</code>).</p>
+:ET

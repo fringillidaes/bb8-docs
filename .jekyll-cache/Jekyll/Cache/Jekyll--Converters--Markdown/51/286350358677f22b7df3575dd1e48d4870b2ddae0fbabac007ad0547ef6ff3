@@ -1,0 +1,753 @@
+I"�X<h1 id="bgenre-information">b!genre information</h1>
+<p>Syntax: <code class="highlighter-rouge">b!genre</code></p>
+
+<p>Automatically queue a playlist based on genres and their categories.</p>
+
+<h1 id="pages">Pages:</h1>
+<ul>
+  <li>Top Lists
+    <ul>
+      <li>Page one
+        <ol>
+          <li>Today’s Top Hits - 50 tracks</li>
+          <li>RapCaviar - 50 tracks</li>
+          <li>Rock This - 51 tracks</li>
+          <li>mint - 59 tracks</li>
+          <li>Hot Country - 51 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>¡Viva Latino! - 50 tracks</li>
+          <li>Are &amp; Be - 45 tracks</li>
+          <li>Viral Hits - 25 tracks</li>
+          <li>United States Top 50 - 50 tracks</li>
+          <li>Global Top 50 - 50 tracks</li>
+        </ol>
+      </li>
+      <li>Page Three
+        <ol>
+          <li>Global Viral 50 - 50 tracks</li>
+          <li>United States Viral 50 - 50 tracks</li>
+          <li>New Music Friday - 102 tracks</li>
+          <li>Hot Country - Top Tracks of 2018 - 50 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>At Home
+    <ul>
+      <li>Page One
+        <ol>
+          <li>Work From Home - 138 tracks</li>
+          <li>RetroWave / Outrun - 60 tracks</li>
+          <li>Family-Friendly Fun - 10 tracks</li>
+          <li>Pumped Pop - 60 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>After The Last Dance - 10 tracks</li>
+          <li>Peaceful Meditation - 181 tracks</li>
+          <li>Stay in the Know - 5 tracks</li>
+          <li>Best Podcasts of the Week - 7 tracks</li>
+          <li>One World: Together At Home - 79 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>Hip-Hop
+    <ul>
+      <li>Page One
+        <ol>
+          <li>RapCaviar - 50 tracks</li>
+          <li>Feelin’ Myself - 50 tracks</li>
+          <li>CST - 92 tracks</li>
+          <li>The Last Dance - 51 tracks</li>
+          <li>Get Turnt - 101 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>Hip Hop Controller - 100 tracks</li>
+          <li>I Love My ’90s Hip-Hop - 100 tracks</li>
+          <li>I Love My West Coast Classics - 70 tracks</li>
+          <li>Tear Drop - 50 tracks</li>
+          <li>Most Necessary - 100 tracks</li>
+        </ol>
+      </li>
+      <li>Page Three
+        <ol>
+          <li>Internet People - 118 tracks</li>
+          <li>Workout Twerkout - 50 tracks</li>
+          <li>Signed XOXO - 100 tracks</li>
+          <li>The Realest Down South - 101 tracks</li>
+          <li>Off The Strength - 100 tracks</li>
+        </ol>
+      </li>
+      <li>Page Four
+        <ol>
+          <li>Hip-Hop Drive - 100 tracks</li>
+          <li>B.A.E. - 50 tracks</li>
+          <li>Big On The Internet - 100 tracks</li>
+          <li>State of Mind - 50 tracks</li>
+          <li>Varsity Bars - 110 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>Pop
+    <ul>
+      <li>Page One
+        <ol>
+          <li>Today’s Top Hits - 50 tracks</li>
+          <li>Pop Rising - 85 tracks</li>
+          <li>Pumped Pop - 60 tracks</li>
+          <li>New Music Friday - 102 tracks</li>
+          <li>Mega Hit Mix - 75 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>Teen Beats - 107 tracks</li>
+          <li>Soft Pop Hits - 234 tracks</li>
+          <li>Just Good Music - 80 tracks</li>
+          <li>Hot Rhythmic - 50 tracks</li>
+          <li>Hit Rewind - 75 tracks</li>
+        </ol>
+      </li>
+      <li>Page Three
+        <ol>
+          <li>Guilty Pleasures - 151 tracks</li>
+          <li>Internet People - 118 tracks</li>
+          <li>Bedroom Pop - 100 tracks</li>
+          <li>Lorem - 124 tracks</li>
+          <li>Indie Pop - 60 tracks</li>
+        </ol>
+      </li>
+      <li>Page Four
+        <ol>
+          <li>Fresh &amp; Chill - 80 tracks</li>
+          <li>Pop Party - 100 tracks</li>
+          <li>Fiesta - 50 tracks</li>
+          <li>Women of Pop - 70 tracks</li>
+          <li>On Our Radar: May - 64 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>Country
+    <ul>
+      <li>Page One
+        <ol>
+          <li>Hot Country - 51 tracks</li>
+          <li>Indigo - 80 tracks</li>
+          <li>Chillin’ on a Dirt Road - 80 tracks</li>
+          <li>Country Gold - 60 tracks</li>
+          <li>90’s Country - 62 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>Country Kind of Love - 50 tracks</li>
+          <li>Big Country - 40 tracks</li>
+          <li>Tailgate Party - 54 tracks</li>
+          <li>Country’s Greatest Hits: The ’00s - 300 tracks</li>
+          <li>New Boots - 71 tracks</li>
+        </ol>
+      </li>
+      <li>Page Three
+        <ol>
+          <li>Country’s Greatest Hits: The ’90s - 135 tracks</li>
+          <li>Nashville’s Worldwide Hot 50 - 50 tracks</li>
+          <li>Texas Music Now - 52 tracks</li>
+          <li>Country’s Greatest Hits: The ’80s - 162 tracks</li>
+          <li>Still Hot - 51 tracks</li>
+        </ol>
+      </li>
+      <li>Page Four
+        <ol>
+          <li>Breakout Country - 60 tracks</li>
+          <li>Women of Country - 70 tracks</li>
+          <li>Fresh Country - 64 tracks</li>
+          <li>Country Music 101: Country’s Greatest Hits - 99 tracks</li>
+          <li>Country Coffeehouse - 59 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>AAPI Heritage Month
+    <ul>
+      <li>Page One
+        <ol>
+          <li>Sound of Our Roots - 64 tracks</li>
+          <li>Beast Meets West - 88 tracks</li>
+          <li>No Borders - 100 tracks</li>
+          <li>Desi Hits - 75 tracks</li>
+          <li>Dope AF - 50 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>Amplify: AAPI Heritage Month - 30 tracks</li>
+          <li>K-Pop Daebak - 50 tracks</li>
+          <li>Puncak Klasemen - 44 tracks</li>
+          <li>最Hit華語榜 - 50 tracks</li>
+          <li>New Music Hindi - 84 tracks</li>
+        </ol>
+      </li>
+      <li>Page Three
+        <ol>
+          <li>Top Cantopop Hits - 50 tracks</li>
+          <li>Tokyo Rising - 70 tracks</li>
+          <li>Bollywood Acoustic - 46 tracks</li>
+          <li>Punjabi X - 38 tracks</li>
+          <li>Indie India - 103 tracks</li>
+        </ol>
+      </li>
+      <li>Page Four
+        <ol>
+          <li>Latest Telugu - 54 tracks</li>
+          <li>Bollywood Blast - 40 tracks</li>
+          <li>Road Trip To Tokyo - 50 tracks</li>
+          <li>Masala Bhangra - 50 tracks</li>
+          <li>Latest Tamil - 54 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>Workout
+    <ul>
+      <li>Page One
+        <ol>
+          <li>Working Out Together: HAIM - 32 tracks</li>
+          <li>Beast Mode - 200 tracks</li>
+          <li>Pumped Pop - 60 tracks</li>
+          <li>Power Workout - 50 tracks</li>
+          <li>Locked In - 100 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>Workout - 60 tracks</li>
+          <li>Motivation Mix - 80 tracks</li>
+          <li>Fun Run 150–165 BPM - 50 tracks</li>
+          <li>Workout Twerkout - 50 tracks</li>
+          <li>Hype - 150 tracks</li>
+        </ol>
+      </li>
+      <li>Page Three
+        <ol>
+          <li>Cardio - 60 tracks</li>
+          <li>Classic Rock Workout - 50 tracks</li>
+          <li>Latin Cardio - 75 tracks</li>
+          <li>Adrenaline Workout - 70 tracks</li>
+          <li>Power Hour - 200 tracks</li>
+        </ol>
+      </li>
+      <li>Page Four
+        <ol>
+          <li>Workout Beats - 70 tracks</li>
+          <li>Throwback Workout - 50 tracks</li>
+          <li>Feeling Accomplished - 50 tracks</li>
+          <li>Yoga &amp; Meditation - 185 tracks</li>
+          <li>Runner’s Club 160 BPM - 47 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>Decades
+    <ul>
+      <li>Page One
+        <ol>
+          <li>All Out 80s - 105 tracks</li>
+          <li>All Out 00s - 100 tracks</li>
+          <li>All Out 90s - 100 tracks</li>
+          <li>All Out 70s - 100 tracks</li>
+          <li>All Out 10s - 100 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>90s Rock Anthems - 150 tracks</li>
+          <li>00s Rock Anthems - 50 tracks</li>
+          <li>Classic Oldies - 100 tracks</li>
+          <li>Country’s Greatest Hits: The ’00s - 300 tracks</li>
+          <li>80s Rock Anthems - 80 tracks</li>
+        </ol>
+      </li>
+      <li>Page Three
+        <ol>
+          <li>All Out 60s - 97 tracks</li>
+          <li>70s Rock Anthems - 80 tracks</li>
+          <li>Country’s Greatest Hits: The ’90s - 135 tracks</li>
+          <li>’90s Pop Rock Essentials - 101 tracks</li>
+          <li>’80s Hard Rock - 104 tracks</li>
+        </ol>
+      </li>
+      <li>Page Four
+        <ol>
+          <li>All Out 50s - 75 tracks</li>
+          <li>90s Acoustic - 75 tracks</li>
+          <li>Unwind 00s - 50 tracks</li>
+          <li>Acoustic Hits: Oldies but Goodies - 50 tracks</li>
+          <li>70s &amp; 80s Acoustic - 60 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>Mood
+    <ul>
+      <li>Page One
+        <ol>
+          <li>Mood Booster - 76 tracks</li>
+          <li>Feelin’ Myself - 50 tracks</li>
+          <li>Confidence Boost - 70 tracks</li>
+          <li>Work From Home - 138 tracks</li>
+          <li>Have a Great Day! - 102 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>Songs to Sing in the Shower - 100 tracks</li>
+          <li>Happy Hits! - 100 tracks</li>
+          <li>Cleaning Kit - 80 tracks</li>
+          <li>Happy Beats - 140 tracks</li>
+          <li>All The Feels - 76 tracks</li>
+        </ol>
+      </li>
+      <li>Page Three
+        <ol>
+          <li>Tear Drop - 50 tracks</li>
+          <li>Good Vibes - 107 tracks</li>
+          <li>Your Favorite Coffeehouse - 118 tracks</li>
+          <li>Getting Ready - 50 tracks</li>
+          <li>Get Chores Done - 50 tracks</li>
+        </ol>
+      </li>
+      <li>Page Four
+        <ol>
+          <li>Life Sucks - 100 tracks</li>
+          <li>Home Sweet Home - 75 tracks</li>
+          <li>Feelin’ Good - 100 tracks</li>
+          <li>Feel-Good Indie Rock - 200 tracks</li>
+          <li>Dreamy Vibes - 79 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>R&amp;B
+    <ul>
+      <li>Page One
+        <ol>
+          <li>Are &amp; Be - 45 tracks</li>
+          <li>I Love My ’00s R&amp;B - 40 tracks</li>
+          <li>I Love My ’90s R&amp;B - 45 tracks</li>
+          <li>Chilled R&amp;B - 50 tracks</li>
+          <li>Gold Edition - 40 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>’80s Jam Session - 40 tracks</li>
+          <li>Black Girl Magic - 46 tracks</li>
+          <li>Channel X - 50 tracks</li>
+          <li>Verzuz: Erykah Badu vs. Jill Scott - 37 tracks</li>
+          <li>The Newness - 50 tracks</li>
+        </ol>
+      </li>
+      <li>Page Three
+        <ol>
+          <li>Queen - 33 tracks</li>
+          <li>Women of R&amp;B - 70 tracks</li>
+          <li>Soul Lounge - 50 tracks</li>
+          <li>Alternative R&amp;B - 100 tracks</li>
+          <li>Spread the Gospel - 40 tracks</li>
+        </ol>
+      </li>
+      <li>Page Four
+        <ol>
+          <li>The Sweet Suite - 40 tracks</li>
+          <li>Choice Edit - 50 tracks</li>
+          <li>Funk Outta Here - 80 tracks</li>
+          <li>The Cookout - 55 tracks</li>
+          <li>I Love My Neo-Soul - 72 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>Gaming
+    <ul>
+      <li>Page One
+        <ol>
+          <li>Gaming Together: blackbear - 34 tracks</li>
+          <li>Top Gaming Tracks - 50 tracks</li>
+          <li>Hip Hop Controller - 100 tracks</li>
+          <li>Power Gaming - 92 tracks</li>
+          <li>Bass Arcade - 250 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>Soundscapes For Gaming - 60 tracks</li>
+          <li>RetroWave / Outrun - 60 tracks</li>
+          <li>Video Game Soundtracks - 81 tracks</li>
+          <li>Epic Gaming - 100 tracks</li>
+          <li>Gaming Lounge - 200 tracks</li>
+        </ol>
+      </li>
+      <li>Page Three
+        <ol>
+          <li>Latin Gaming - 75 tracks</li>
+          <li>Genre Glitch - 100 tracks</li>
+          <li>Indie Gaming - 193 tracks</li>
+          <li>Ultimate Rock Gaming - 200 tracks</li>
+          <li>Virtual Reality - 100 tracks</li>
+        </ol>
+      </li>
+      <li>Page Four
+        <ol>
+          <li>Heavy Gamer - 70 tracks</li>
+          <li>StartSelect - 56 tracks</li>
+          <li>Retro Gaming - 100 tracks</li>
+          <li>Ultimate Pop Gaming - 65 tracks</li>
+          <li>This Is SEGA SOUND TEAM - 50 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>Latin
+    <ul>
+      <li>Page One
+        <ol>
+          <li>¡Viva Latino! - 50 tracks</li>
+          <li>Baila Reggaeton - 50 tracks</li>
+          <li>fem. - 75 tracks</li>
+          <li>Latin Party Anthems - 100 tracks</li>
+          <li>Fuego - 51 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>Bachata Lovers - 150 tracks</li>
+          <li>Super Cumbias - 50 tracks</li>
+          <li>Latin Hit Mix - 75 tracks</li>
+          <li>Vibras - 100 tracks</li>
+          <li>Radar Latino - 50 tracks</li>
+        </ol>
+      </li>
+      <li>Page Three
+        <ol>
+          <li>Rock en Español - 60 tracks</li>
+          <li>Salsa Nation - 150 tracks</li>
+          <li>Puro Perreo - 80 tracks</li>
+          <li>New Music Friday Latin - 52 tracks</li>
+          <li>Cumbia Sonidera - 50 tracks</li>
+        </ol>
+      </li>
+      <li>Page Four
+        <ol>
+          <li>Fiesta - 50 tracks</li>
+          <li>Reggaeton Classics - 100 tracks</li>
+          <li>Latin Cardio - 75 tracks</li>
+          <li>This Is J Balvin - 82 tracks</li>
+          <li>Canciones del Recuerdo - 150 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>Focus
+    <ul>
+      <li>Page One
+        <ol>
+          <li>Deep Focus - 189 tracks</li>
+          <li>Peaceful Piano - 256 tracks</li>
+          <li>Lo-Fi Beats - 450 tracks</li>
+          <li>Instrumental Study - 283 tracks</li>
+          <li>Brain Food - 200 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>Intense Studying - 252 tracks</li>
+          <li>All-Nighter - 80 tracks</li>
+          <li>Chill Lofi Study Beats - 198 tracks</li>
+          <li>Peaceful Guitar - 173 tracks</li>
+          <li>Classical Focus - 200 tracks</li>
+        </ol>
+      </li>
+      <li>Page Three
+        <ol>
+          <li>White Noise - 86 tracks</li>
+          <li>Piano in the Background - 358 tracks</li>
+          <li>Jazz for Study - 102 tracks</li>
+          <li>Focus Flow - 127 tracks</li>
+          <li>Music For Concentration - 90 tracks</li>
+        </ol>
+      </li>
+      <li>Page Four
+        <ol>
+          <li>Calming Acoustic - 147 tracks</li>
+          <li>Nature Sounds - 46 tracks</li>
+          <li>Reading Soundtrack - 200 tracks</li>
+          <li>Productive Morning - 67 tracks</li>
+          <li>Electronic Focus - 93 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>Chill
+    <ul>
+      <li>Page One
+        <ol>
+          <li>Chill Hits - 115 tracks</li>
+          <li>Lo-Fi Beats - 450 tracks</li>
+          <li>Chillin’ on a Dirt Road - 80 tracks</li>
+          <li>Soft Pop Hits - 234 tracks</li>
+          <li>Chill Vibes - 192 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>Chill Tracks - 200 tracks</li>
+          <li>Jazz Vibes - 200 tracks</li>
+          <li>Beach Vibes - 50 tracks</li>
+          <li>Totally Stress Free - 80 tracks</li>
+          <li>Acoustic Covers - 115 tracks</li>
+        </ol>
+      </li>
+      <li>Page Three
+        <ol>
+          <li>Classic Acoustic - 80 tracks</li>
+          <li>Late Night Vibes - 75 tracks</li>
+          <li>Deep House Relax - 120 tracks</li>
+          <li>Lush Lofi - 124 tracks</li>
+          <li>Mellow Classics - 102 tracks</li>
+        </ol>
+      </li>
+      <li>Page Four
+        <ol>
+          <li>Stress Relief - 107 tracks</li>
+          <li>Relax &amp; Unwind - 100 tracks</li>
+          <li>Acoustic Hits - 100 tracks</li>
+          <li>Hanging Out and Relaxing - 108 tracks</li>
+          <li>Soak Up the Sun - 120 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>Rock
+    <ul>
+      <li>Page One
+        <ol>
+          <li>Rock This - 51 tracks</li>
+          <li>The New Alt - 100 tracks</li>
+          <li>Rock Classics - 150 tracks</li>
+          <li>90s Rock Anthems - 150 tracks</li>
+          <li>00s Rock Anthems - 50 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>Yacht Rock - 140 tracks</li>
+          <li>80s Rock Anthems - 80 tracks</li>
+          <li>70s Rock Anthems - 80 tracks</li>
+          <li>Soft Rock - 100 tracks</li>
+          <li>’90s Pop Rock Essentials - 101 tracks</li>
+        </ol>
+      </li>
+      <li>Page Three
+        <ol>
+          <li>Legendary - 70 tracks</li>
+          <li>Emo Forever - 75 tracks</li>
+          <li>Power Ballads - 49 tracks</li>
+          <li>Rock en Español - 60 tracks</li>
+          <li>Grunge Forever - 50 tracks</li>
+        </ol>
+      </li>
+      <li>Page Four
+        <ol>
+          <li>Walk Like A Badass - 50 tracks</li>
+          <li>Rock Hard - 100 tracks</li>
+          <li>60s Rock Anthems - 101 tracks</li>
+          <li>Essential Alternative - 224 tracks</li>
+          <li>Pure Rock &amp; Roll - 100 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>Dance/Electronic
+    <ul>
+      <li>Page One
+        <ol>
+          <li>mint - 59 tracks</li>
+          <li>Trance Mission - 150 tracks</li>
+          <li>Happy Beats - 140 tracks</li>
+          <li>Brain Food - 200 tracks</li>
+          <li>Dance Hits - 400 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>Bass Arcade - 250 tracks</li>
+          <li>Hype - 150 tracks</li>
+          <li>Chill Tracks - 200 tracks</li>
+          <li>Pop Remix - 150 tracks</li>
+          <li>Power Hour - 200 tracks</li>
+        </ol>
+      </li>
+      <li>Page Three
+        <ol>
+          <li>Deep House Relax - 120 tracks</li>
+          <li>Dance Party - 120 tracks</li>
+          <li>Heart Beats - 140 tracks</li>
+          <li>Swag House - 300 tracks</li>
+          <li>Night Rider - 100 tracks</li>
+        </ol>
+      </li>
+      <li>Page Four
+        <ol>
+          <li>Dance Rising - 150 tracks</li>
+          <li>In a Past Life - 200 tracks</li>
+          <li>Housewerk - 300 tracks</li>
+          <li>Friday Cratediggers - 232 tracks</li>
+          <li>Dubstep Don - 200 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>Indie
+    <ul>
+      <li>Page One
+        <ol>
+          <li>All New Indie - 104 tracks</li>
+          <li>Ultimate Indie - 100 tracks</li>
+          <li>POLLEN - 152 tracks</li>
+          <li>Bedroom Pop - 100 tracks</li>
+          <li>Lorem - 124 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>Feel-Good Indie Rock - 200 tracks</li>
+          <li>Indie Pop - 60 tracks</li>
+          <li>Late Night Vibes - 75 tracks</li>
+          <li>idk. - 143 tracks</li>
+          <li>Surf Rock Sunshine - 80 tracks</li>
+        </ol>
+      </li>
+      <li>Page Three
+        <ol>
+          <li>Indie Pop 2000s - 75 tracks</li>
+          <li>Alternative 10s - 80 tracks</li>
+          <li>Indie Pop 2010s - 100 tracks</li>
+          <li>Early Alternative - 75 tracks</li>
+          <li>HYPERPOP - 112 tracks</li>
+        </ol>
+      </li>
+      <li>Page Four
+        <ol>
+          <li>Alternative 80s - 80 tracks</li>
+          <li>Modern Psychedelia - 150 tracks</li>
+          <li>Essential Indie - 80 tracks</li>
+          <li>Alternative 90s - 80 tracks</li>
+          <li>Indie Chillout - 100 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>Wellness
+    <ul>
+      <li>Page One
+        <ol>
+          <li>Yoga &amp; Meditation - 185 tracks</li>
+          <li>Mind &amp; Body - 95 tracks</li>
+          <li>Peaceful Meditation - 181 tracks</li>
+          <li>Stress Relief - 107 tracks</li>
+          <li>Detox - 129 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>Folk &amp; Acoustic
+    <ul>
+      <li>Page One
+        <ol>
+          <li>Roots Rising - 100 tracks</li>
+          <li>Fresh Folk - 100 tracks</li>
+          <li>Indigo - 80 tracks</li>
+          <li>Infinite Acoustic - 198 tracks</li>
+          <li>The Pulse of Americana - 100 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>Best Folk &amp; Americana of the 2010s - 100 tracks</li>
+          <li>Best of Folk &amp; Americana 2019 - 50 tracks</li>
+          <li>Roots Revival - 100 tracks</li>
+          <li>Folk Pop - 111 tracks</li>
+          <li>Acoustic Covers - 115 tracks</li>
+        </ol>
+      </li>
+      <li>Page Three
+        <ol>
+          <li>Classic Acoustic - 80 tracks</li>
+          <li>Happy Folk - 118 tracks</li>
+          <li>Wild + Free - 90 tracks</li>
+          <li>Good Times: Great Oldies - 59 tracks</li>
+          <li>Swagger - 105 tracks</li>
+        </ol>
+      </li>
+      <li>Page Four
+        <ol>
+          <li>Soft + Slow - 55 tracks</li>
+          <li>Atmospheric + Ethereal - 104 tracks</li>
+          <li>Chill as Folk - 101 tracks</li>
+          <li>Essential Folk - 94 tracks</li>
+          <li>Infinite Indie Folk - 400 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li>Party
+    <ul>
+      <li>Page One
+        <ol>
+          <li>Throwback Jams - 93 tracks</li>
+          <li>Pop Party - 100 tracks</li>
+          <li>Get Turnt - 101 tracks</li>
+          <li>Feelin’ Myself - 50 tracks</li>
+          <li>Tailgate Party - 54 tracks</li>
+        </ol>
+      </li>
+      <li>Page Two
+        <ol>
+          <li>Latin Party Anthems - 100 tracks</li>
+          <li>Cumbia Sonidera - 50 tracks</li>
+          <li>Girls’ Night - 80 tracks</li>
+          <li>Fiesta - 50 tracks</li>
+          <li>Dance Party - 120 tracks</li>
+        </ol>
+      </li>
+      <li>Page Three
+        <ol>
+          <li>Dance Pop - 116 tracks</li>
+          <li>Swag House - 300 tracks</li>
+          <li>Summer Party - 100 tracks</li>
+          <li>Verano Forever - 50 tracks</li>
+          <li>Rock Party - 50 tracks</li>
+        </ol>
+      </li>
+      <li>Page Four
+        <ol>
+          <li>In a Past Life - 200 tracks</li>
+          <li>Backyard BBQ - 97 tracks</li>
+          <li>Dance Classics - 120 tracks</li>
+          <li>Happy Birthday - 31 tracks</li>
+          <li>¡Baila Sin Parar! - 50 tracks</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+</ul>
+:ET

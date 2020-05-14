@@ -1,0 +1,57 @@
+I"Ù<h1 id="bplaylist-information">b!playlist information</h1>
+<p>Syntax: <code class="highlighter-rouge">b!playlist</code></p>
+
+<h1 id="playlist-configuration-options">Playlist configuration options.</h1>
+
+<ul>
+  <li>Scope info:
+    <ul>
+      <li>Global:
+        <ul>
+          <li>Visible to all users of this bot.</li>
+          <li>Only editable by bot owner.</li>
+        </ul>
+      </li>
+      <li>Guild:
+        <ul>
+          <li>Visible to all users in this guild.</li>
+          <li>Editable by bot owner, guild owner, guild admins, guild mods, DJ role and playlist creator.</li>
+        </ul>
+      </li>
+      <li>User:
+        <ul>
+          <li>Visible to all bot users, if â€“author is passed.</li>
+          <li>Editable by bot owner and creator.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="subcommands">Subcommands:</h1>
+<p><code class="highlighter-rouge">append</code> Add a track URL, playlist link, or quick search to a playlist.</p>
+
+<p><code class="highlighter-rouge">copy</code> Copy a playlist from one scope to another.</p>
+
+<p><code class="highlighter-rouge">create</code> Create an empty playlist.</p>
+
+<p><code class="highlighter-rouge">dedupe</code> Remove duplicate tracks from a saved playlist.</p>
+
+<p><code class="highlighter-rouge">delete</code> Delete a saved playlist.</p>
+
+<p><code class="highlighter-rouge">info</code> Retrieve information from a saved playlist.</p>
+
+<p><code class="highlighter-rouge">list</code> List saved playlists.</p>
+
+<p><code class="highlighter-rouge">queue</code> Save the queue to a playlist.</p>
+
+<p><code class="highlighter-rouge">remove</code> Remove a track from a playlist by url.</p>
+
+<p><code class="highlighter-rouge">rename</code> Rename an existing playlist.</p>
+
+<p><code class="highlighter-rouge">save</code> Save a playlist from a url.</p>
+
+<p><code class="highlighter-rouge">start</code> Load a playlist into the queue.</p>
+
+<p><code class="highlighter-rouge">update</code> Updates all tracks in a playlist.</p>
+:ET

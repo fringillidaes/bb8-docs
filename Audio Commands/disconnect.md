@@ -7,6 +7,6 @@ layout: default
 ---
 
 # b!disconnect information
-Syntax: `b!disconnect` <index>
+Syntax: `b!disconnect` `<index>`
 
 Disconnect bb-8 from the voice channel.

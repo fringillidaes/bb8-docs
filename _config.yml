@@ -31,8 +31,16 @@ remote_theme: pmarsceill/just-the-docs
 
 # just-the-docs specific
 heading_anchors: true
-footer_content: "BB-8 | Provided by kennnyshiwa#1337 | Support BB-8 on Patreon to get a custom adventure item https://www.patreon.com/kennnyshiwa!"
+footer_content: "BB-8 Documentation created by Finch | Bot created and provided by kennnyshiwa#1337 | Support BB-8 on Patreon to get a custom adventure item https://www.patreon.com/kennnyshiwa!"
 logo: "/assets/js/images/bb8.png"
+
+# Aux links for the upper right navigation
+aux_links:
+  "Invite Me!":
+    - "https://discordapp.com/oauth2/authorize?client_id=540694922307698690&scope=bot&permissions=2146958839"
+  "Support Server":
+    - "https://discord.com/invite/TEeXcDY"
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

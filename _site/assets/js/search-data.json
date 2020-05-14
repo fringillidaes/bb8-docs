@@ -48,5 +48,107 @@
     "url": "http://localhost:4000/Audio%20Commands/genre.html",
     "relUrl": "/Audio%20Commands/genre.html"
   }
+  ,"8": {
+    "title": "Home",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  }
+  ,"9": {
+    "title": "b!now",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/now.html",
+    "relUrl": "/Audio%20Commands/now.html"
+  }
+  ,"10": {
+    "title": "b!pause",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/pause.html",
+    "relUrl": "/Audio%20Commands/pause.html"
+  }
+  ,"11": {
+    "title": "b!percent",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/percent.html",
+    "relUrl": "/Audio%20Commands/percent.html"
+  }
+  ,"12": {
+    "title": "b!play",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/play.html",
+    "relUrl": "/Audio%20Commands/play.html"
+  }
+  ,"13": {
+    "title": "b!playlist",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/playlist.html",
+    "relUrl": "/Audio%20Commands/playlist.html"
+  }
+  ,"14": {
+    "title": "b!prev",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/prev.html",
+    "relUrl": "/Audio%20Commands/prev.html"
+  }
+  ,"15": {
+    "title": "b!queue",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/queue.html",
+    "relUrl": "/Audio%20Commands/queue.html"
+  }
+  ,"16": {
+    "title": "b!remove",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/remove.html",
+    "relUrl": "/Audio%20Commands/remove.html"
+  }
+  ,"17": {
+    "title": "b!repeat",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/repeat.html",
+    "relUrl": "/Audio%20Commands/repeat.html"
+  }
+  ,"18": {
+    "title": "b!search",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/search.html",
+    "relUrl": "/Audio%20Commands/search.html"
+  }
+  ,"19": {
+    "title": "b!seek",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/seek.html",
+    "relUrl": "/Audio%20Commands/seek.html"
+  }
+  ,"20": {
+    "title": "b!shuffle",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/shuffle.html",
+    "relUrl": "/Audio%20Commands/shuffle.html"
+  }
+  ,"21": {
+    "title": "b!skip",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/skip.html",
+    "relUrl": "/Audio%20Commands/skip.html"
+  }
+  ,"22": {
+    "title": "b!stop",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/stop.html",
+    "relUrl": "/Audio%20Commands/stop.html"
+  }
+  ,"23": {
+    "title": "b!summon",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/summon.html",
+    "relUrl": "/Audio%20Commands/summon.html"
+  }
+  ,"24": {
+    "title": "b!volume",
+    "content": "'+content+'",
+    "url": "http://localhost:4000/Audio%20Commands/volume.html",
+    "relUrl": "/Audio%20Commands/volume.html"
+  }
   
 }
